@@ -1,4 +1,6 @@
-# 🕵️‍♂️ NewsCheck - Haber Manipülasyon Dedektörü
+# NewsCheck - Haber Manipülasyon Dedektörü
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 NewsCheck, haber metinlerindeki duygu sömürüsünü, taraflı bakış açılarını ve manipülasyon riskini tespit eden, ardından metni tarafsız bir şekilde yeniden yazan yapay zeka destekli bir analiz aracıdır.
 
